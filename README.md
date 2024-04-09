@@ -1,6 +1,6 @@
 # About Me:
-<h2>Hi, I'm Lala Asgarova</h2>
-<h3>A junior frontend developer from Azerbaijan</h3>
+<h2>Lala Asgarova</h2>
+<h3>Frontend developer from Azerbaijan</h3>
 
 
 # 💻 Tech Stack:
