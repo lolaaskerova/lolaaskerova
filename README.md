@@ -1,6 +1,6 @@
 
 <h2>Lala Asgarova</h2>
-<h3>Frontend developer from Azerbaijan</h3>
+<h3>Frontend developer</h3>
 
 
 # 💻 Tech Stack:
