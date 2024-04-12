@@ -1,5 +1,5 @@
 
-<h2 text="align-center">Lala Asgarova</h2>
+<h2 text-align="center">Lala Asgarova</h2>
 <h3>Frontend developer from Azerbaijan</h3>
 
 
